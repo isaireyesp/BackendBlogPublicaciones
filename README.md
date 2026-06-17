@@ -172,7 +172,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del Proyecto
 
 ```bash
-BlogSphere/
+BackendBlogPublicaciones/
 │
 ├── src/
 │   ├── main/
@@ -200,7 +200,7 @@ BlogSphere/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/BlogSphere
+git clone https://github.com/isairey/BackendBlogPublicaciones
 ```
 
 ---
@@ -340,7 +340,7 @@ git push origin feature/nueva-funcion
 
 ---
 
-# 👨‍💻 Fundador
+# 👨‍💻 Desarrollador
 
 <div align="center">
 
