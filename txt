@@ -76,3 +76,38 @@ Puedes importar esto directamente:
     }
   ]
 }
+
+
+## 🔥 Pruebas con Postman
+
+### Obtener todos los registros
+
+```http
+GET /api/productos
+```
+
+### Crear un registro
+
+```http
+POST /api/productos
+Content-Type: application/json
+```
+
+```json
+{
+  "nombre": "Producto Demo",
+  "precio": 199.99
+}
+```
+
+### Actualizar un registro
+
+```http
+PUT /api/productos/{id}
+```
+
+### Eliminar un registro
+
+```http
+DELETE /api/productos/{id}
+```
